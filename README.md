@@ -343,7 +343,7 @@ Este projeto está sob a licença **MIT**. Você pode usar, copiar e modificar l
 
 Desenvolvido por **SILVANA ELIAS SILVA FARIAS **.
 
-- GitHub: [@SEU-USUARIO](https://github.com/SEU-USUARIO)
+- GitHub: [devsilvana521](https://github.com/devsilvana521)
 
 
 <p align="center">Feito com 💇 e ☕ — Uberaba, MG</p>
