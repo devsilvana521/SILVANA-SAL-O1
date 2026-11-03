@@ -341,9 +341,9 @@ Este projeto está sob a licença **MIT**. Você pode usar, copiar e modificar l
 
 ## 👤 Autor
 
-Desenvolvido por **Wanderson de Farias**.
+Desenvolvido por **SILVANA ELIAS SILVA FARIAS **.
 
 - GitHub: [@SEU-USUARIO](https://github.com/SEU-USUARIO)
-- E-mail: wandersondefarias74@gmail.com
+
 
 <p align="center">Feito com 💇 e ☕ — Uberaba, MG</p>
